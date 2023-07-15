@@ -1,0 +1,55 @@
+cradle:
+  stack:
+    - path: "././a01.hs"
+      component: "ch01:exe:a01"
+
+    - path: "././Paths_ch01.hs"
+      component: "ch01:exe:a01"
+
+    - path: "././a02.hs"
+      component: "ch01:exe:a02"
+
+    - path: "././Paths_ch01.hs"
+      component: "ch01:exe:a02"
+
+    - path: "././a03.hs"
+      component: "ch01:exe:a03"
+
+    - path: "././Paths_ch01.hs"
+      component: "ch01:exe:a03"
+
+    - path: "././a04.hs"
+      component: "ch01:exe:a04"
+
+    - path: "././Paths_ch01.hs"
+      component: "ch01:exe:a04"
+
+    - path: "././a05.hs"
+      component: "ch01:exe:a05"
+
+    - path: "././Paths_ch01.hs"
+      component: "ch01:exe:a05"
+
+    - path: "././b01.hs"
+      component: "ch01:exe:b01"
+
+    - path: "././Paths_ch01.hs"
+      component: "ch01:exe:b01"
+
+    - path: "././b02.hs"
+      component: "ch01:exe:b02"
+
+    - path: "././Paths_ch01.hs"
+      component: "ch01:exe:b02"
+
+    - path: "././b03.hs"
+      component: "ch01:exe:b03"
+
+    - path: "././Paths_ch01.hs"
+      component: "ch01:exe:b03"
+
+    - path: "././b04.hs"
+      component: "ch01:exe:b04"
+
+    - path: "././Paths_ch01.hs"
+      component: "ch01:exe:b04"

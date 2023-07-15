@@ -1,0 +1,39 @@
+name:                ch02
+
+dependencies:
+- base >= 4.7 && < 5
+- bytestring
+- extra
+- array
+- containers
+
+ghc-options:
+- -Wall
+- -Wcompat
+- -Widentities
+- -Wincomplete-record-updates
+- -Wincomplete-uni-patterns
+- -Wmissing-export-lists
+- -Wmissing-home-modules
+- -Wpartial-fields
+- -Wredundant-constraints
+
+executables:
+  a06:
+    main: a06.hs
+  b06:
+    main: b06.hs
+  a07:
+    main: a07.hs
+  b07:
+    main: b07.hs
+  a08:
+    main: a08.hs
+  b08:
+    main: b08.hs
+  a09:
+    main: a09.hs
+  b09:
+    main: b09.hs
+  a10:
+    main: a10.hs
