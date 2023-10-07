@@ -1,0 +1,64 @@
+name:                ch04
+
+dependencies:
+- base >= 4.7 && < 5
+- bytestring
+- extra
+- array
+- containers
+- vector
+- mtl
+- primitive
+- vector-algorithms
+- unboxing-vector
+
+ghc-options:
+- -Wall
+- -Wcompat
+- -Widentities
+- -Wincomplete-record-updates
+- -Wincomplete-uni-patterns
+- -Wmissing-export-lists
+- -Wmissing-home-modules
+- -Wpartial-fields
+- -Wredundant-constraints
+
+executables:
+  template:
+    main: template.hs
+  a16:
+    main: a16.hs
+  a17:
+    main: a17.hs
+  a18:
+    main: a18.hs
+  a19:
+    main: a19.hs
+  a20:
+    main: a20.hs
+  a21:
+    main: a21.hs
+  a22:
+    main: a22.hs
+  a23:
+    main: a23.hs
+  a24:
+    main: a24.hs
+  a25:
+    main: a25.hs
+  b16:
+    main: b16.hs
+  b17:
+    main: b17.hs
+  b18:
+    main: b18.hs
+  b19:
+    main: b19.hs
+  b20:
+    main: b20.hs
+  b21:
+    main: b21.hs
+  b23:
+    main: b23.hs
+  b24:
+    main: b24.hs
