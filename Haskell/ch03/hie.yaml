@@ -1,0 +1,61 @@
+cradle:
+  stack:
+    - path: "././a11.hs"
+      component: "ch03:exe:a11"
+
+    - path: "././Paths_ch03.hs"
+      component: "ch03:exe:a11"
+
+    - path: "././a12.hs"
+      component: "ch03:exe:a12"
+
+    - path: "././Paths_ch03.hs"
+      component: "ch03:exe:a12"
+
+    - path: "././a13.hs"
+      component: "ch03:exe:a13"
+
+    - path: "././Paths_ch03.hs"
+      component: "ch03:exe:a13"
+
+    - path: "././a14.hs"
+      component: "ch03:exe:a14"
+
+    - path: "././Paths_ch03.hs"
+      component: "ch03:exe:a14"
+
+    - path: "././a15.hs"
+      component: "ch03:exe:a15"
+
+    - path: "././Paths_ch03.hs"
+      component: "ch03:exe:a15"
+
+    - path: "././b11.hs"
+      component: "ch03:exe:b11"
+
+    - path: "././Paths_ch03.hs"
+      component: "ch03:exe:b11"
+
+    - path: "././b12.hs"
+      component: "ch03:exe:b12"
+
+    - path: "././Paths_ch03.hs"
+      component: "ch03:exe:b12"
+
+    - path: "././b13.hs"
+      component: "ch03:exe:b13"
+
+    - path: "././Paths_ch03.hs"
+      component: "ch03:exe:b13"
+
+    - path: "././b14.hs"
+      component: "ch03:exe:b14"
+
+    - path: "././Paths_ch03.hs"
+      component: "ch03:exe:b14"
+
+    - path: "././template.hs"
+      component: "ch03:exe:template"
+
+    - path: "././Paths_ch03.hs"
+      component: "ch03:exe:template"

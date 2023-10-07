@@ -1,0 +1,115 @@
+cradle:
+  stack:
+    - path: "././a16.hs"
+      component: "ch04:exe:a16"
+
+    - path: "././Paths_ch04.hs"
+      component: "ch04:exe:a16"
+
+    - path: "././a17.hs"
+      component: "ch04:exe:a17"
+
+    - path: "././Paths_ch04.hs"
+      component: "ch04:exe:a17"
+
+    - path: "././a18.hs"
+      component: "ch04:exe:a18"
+
+    - path: "././Paths_ch04.hs"
+      component: "ch04:exe:a18"
+
+    - path: "././a19.hs"
+      component: "ch04:exe:a19"
+
+    - path: "././Paths_ch04.hs"
+      component: "ch04:exe:a19"
+
+    - path: "././a20.hs"
+      component: "ch04:exe:a20"
+
+    - path: "././Paths_ch04.hs"
+      component: "ch04:exe:a20"
+
+    - path: "././a21.hs"
+      component: "ch04:exe:a21"
+
+    - path: "././Paths_ch04.hs"
+      component: "ch04:exe:a21"
+
+    - path: "././a22.hs"
+      component: "ch04:exe:a22"
+
+    - path: "././Paths_ch04.hs"
+      component: "ch04:exe:a22"
+
+    - path: "././a23.hs"
+      component: "ch04:exe:a23"
+
+    - path: "././Paths_ch04.hs"
+      component: "ch04:exe:a23"
+
+    - path: "././a24.hs"
+      component: "ch04:exe:a24"
+
+    - path: "././Paths_ch04.hs"
+      component: "ch04:exe:a24"
+
+    - path: "././a25.hs"
+      component: "ch04:exe:a25"
+
+    - path: "././Paths_ch04.hs"
+      component: "ch04:exe:a25"
+
+    - path: "././b16.hs"
+      component: "ch04:exe:b16"
+
+    - path: "././Paths_ch04.hs"
+      component: "ch04:exe:b16"
+
+    - path: "././b17.hs"
+      component: "ch04:exe:b17"
+
+    - path: "././Paths_ch04.hs"
+      component: "ch04:exe:b17"
+
+    - path: "././b18.hs"
+      component: "ch04:exe:b18"
+
+    - path: "././Paths_ch04.hs"
+      component: "ch04:exe:b18"
+
+    - path: "././b19.hs"
+      component: "ch04:exe:b19"
+
+    - path: "././Paths_ch04.hs"
+      component: "ch04:exe:b19"
+
+    - path: "././b20.hs"
+      component: "ch04:exe:b20"
+
+    - path: "././Paths_ch04.hs"
+      component: "ch04:exe:b20"
+
+    - path: "././b21.hs"
+      component: "ch04:exe:b21"
+
+    - path: "././Paths_ch04.hs"
+      component: "ch04:exe:b21"
+
+    - path: "././b23.hs"
+      component: "ch04:exe:b23"
+
+    - path: "././Paths_ch04.hs"
+      component: "ch04:exe:b23"
+
+    - path: "././b24.hs"
+      component: "ch04:exe:b24"
+
+    - path: "././Paths_ch04.hs"
+      component: "ch04:exe:b24"
+
+    - path: "././template.hs"
+      component: "ch04:exe:template"
+
+    - path: "././Paths_ch04.hs"
+      component: "ch04:exe:template"

@@ -1,0 +1,126 @@
+cabal-version: 1.12
+
+-- This file has been generated from package.yaml by hpack version 0.35.1.
+--
+-- see: https://github.com/sol/hpack
+
+name:           ch02
+version:        0.0.0
+build-type:     Simple
+
+executable a06
+  main-is: a06.hs
+  other-modules:
+      Paths_ch02
+  ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints
+  build-depends:
+      array
+    , base >=4.7 && <5
+    , bytestring
+    , containers
+    , extra
+  default-language: Haskell2010
+
+executable a07
+  main-is: a07.hs
+  other-modules:
+      Paths_ch02
+  ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints
+  build-depends:
+      array
+    , base >=4.7 && <5
+    , bytestring
+    , containers
+    , extra
+  default-language: Haskell2010
+
+executable a08
+  main-is: a08.hs
+  other-modules:
+      Paths_ch02
+  ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints
+  build-depends:
+      array
+    , base >=4.7 && <5
+    , bytestring
+    , containers
+    , extra
+  default-language: Haskell2010
+
+executable a09
+  main-is: a09.hs
+  other-modules:
+      Paths_ch02
+  ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints
+  build-depends:
+      array
+    , base >=4.7 && <5
+    , bytestring
+    , containers
+    , extra
+  default-language: Haskell2010
+
+executable a10
+  main-is: a10.hs
+  other-modules:
+      Paths_ch02
+  ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints
+  build-depends:
+      array
+    , base >=4.7 && <5
+    , bytestring
+    , containers
+    , extra
+  default-language: Haskell2010
+
+executable b06
+  main-is: b06.hs
+  other-modules:
+      Paths_ch02
+  ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints
+  build-depends:
+      array
+    , base >=4.7 && <5
+    , bytestring
+    , containers
+    , extra
+  default-language: Haskell2010
+
+executable b07
+  main-is: b07.hs
+  other-modules:
+      Paths_ch02
+  ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints
+  build-depends:
+      array
+    , base >=4.7 && <5
+    , bytestring
+    , containers
+    , extra
+  default-language: Haskell2010
+
+executable b08
+  main-is: b08.hs
+  other-modules:
+      Paths_ch02
+  ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints
+  build-depends:
+      array
+    , base >=4.7 && <5
+    , bytestring
+    , containers
+    , extra
+  default-language: Haskell2010
+
+executable b09
+  main-is: b09.hs
+  other-modules:
+      Paths_ch02
+  ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints
+  build-depends:
+      array
+    , base >=4.7 && <5
+    , bytestring
+    , containers
+    , extra
+  default-language: Haskell2010
