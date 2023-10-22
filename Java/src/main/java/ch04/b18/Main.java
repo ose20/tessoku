@@ -1,5 +1,7 @@
 package ch04.b18;
 
+import java.sql.Array;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
@@ -15,7 +17,9 @@ public class Main {
         int[] a = IntStream.range(0, n).map(i -> sc.nextInt()).toArray();
 
         var dp = calcDp(n, s, a);
-        boolean flg = IntStream.range(1, n+1).mapToObj(i -> dp[i][s]).reduce(false, (b1, b2) -> b1 || b2);
+        boolean flg = IntStream.range(1, n+1)
+                .mapToObj(i -> dp[i][s])
+                .reduce(false, (b1, b2) -> b1 || b2);
         if (flg) {
             var path = constructPath(n, s, a, dp);
             System.out.println(path.size());
@@ -43,7 +47,15 @@ public class Main {
     }
 
     private static List<Integer> constructPath(int n, int s, int[] a, boolean[][] dp) {
-        
-        return null;
+        List<Integer> path = new ArrayList<>();
+
+        int sum = s;
+        for (int cur=n; cur>=1; cur--) {
+            if (sum-a[cur-1] >= 0 &&  dp[cur-1][sum-a[cur-1]]) {
+                sum -= a[cur-1];
+                path.add(cur);
+            }
+        }
+        return path;
     }
 }
