@@ -1,3 +1,5 @@
+package ch03.A13;
+
 import java.io.IOException;
 import java.util.Scanner;
 import java.util.stream.IntStream;

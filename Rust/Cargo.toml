@@ -1,0 +1,115 @@
+[package]
+name = "Rust"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+proconio = "0.4.5"
+
+[[bin]]
+name = "memo"
+path = "src/memo.rs"
+
+[[bin]]
+name = "memo2"
+path = "src/memo2.rs"
+
+[[bin]]
+name = "memo3"
+path = "src/memo3.rs"
+
+[[bin]]
+name = "a01"
+path = "src/a01.rs"
+
+[[bin]]
+name = "a02"
+path = "src/a02.rs"
+
+[[bin]]
+name = "a03"
+path = "src/a03.rs"
+
+[[bin]]
+name = "a04"
+path = "src/a04.rs"
+
+[[bin]]
+name = "a05"
+path = "src/a05.rs"
+
+[[bin]]
+name = "a06"
+path = "src/a06.rs"
+
+[[bin]]
+name = "a07"
+path = "src/a07.rs"
+
+[[bin]]
+name = "a08"
+path = "src/a08.rs"
+
+[[bin]]
+name = "a09"
+path = "src/a09.rs"
+
+[[bin]]
+name = "a10"
+path = "src/a10.rs"
+
+[[bin]]
+name = "a11"
+path = "src/a11.rs"
+
+[[bin]]
+name = "a12"
+path = "src/a12.rs"
+
+[[bin]]
+name = "a13"
+path = "src/a13.rs"
+
+[[bin]]
+name = "a14"
+path = "src/a14.rs"
+
+[[bin]]
+name = "a15"
+path = "src/a15.rs"
+
+
+
+[[bin]]
+name = "b01"
+path = "src/b01.rs"
+
+[[bin]]
+name = "b02"
+path = "src/b02.rs"
+
+[[bin]]
+name = "b03"
+path = "src/b03.rs"
+
+[[bin]]
+name = "b04"
+path = "src/b04.rs"
+
+[[bin]]
+name = "b06"
+path = "src/b06.rs"
+
+[[bin]]
+name = "b07"
+path = "src/b07.rs"
+
+[[bin]]
+name = "b08"
+path = "src/b08.rs"
+
+[[bin]]
+name = "b09"
+path = "src/b09.rs"
