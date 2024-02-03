@@ -1,12 +1,10 @@
-struct 
 
 fn main() {
-    let a = 3;
+    let a = Some(1);
+    let b = None;
 
-    let b = a.to_string();
-
-
-
+    let c = a.max(b);
+    println!("{:?}", c);
 }
 
 

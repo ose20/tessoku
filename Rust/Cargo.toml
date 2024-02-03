@@ -80,6 +80,46 @@ path = "src/a14.rs"
 name = "a15"
 path = "src/a15.rs"
 
+[[bin]]
+name = "a16"
+path = "src/a16.rs"
+
+[[bin]]
+name = "a17"
+path = "src/a17.rs"
+
+[[bin]]
+name = "a18"
+path = "src/a18.rs"
+
+[[bin]]
+name = "a19"
+path = "src/a19.rs"
+
+[[bin]]
+name = "a20"
+path = "src/a20.rs"
+
+[[bin]]
+name = "a21"
+path = "src/a21.rs"
+
+[[bin]]
+name = "a22"
+path = "src/a22.rs"
+
+[[bin]]
+name = "a23"
+path = "src/a23.rs"
+
+[[bin]]
+name = "a24"
+path = "src/a24.rs"
+
+[[bin]]
+name = "a25"
+path = "src/a25.rs"
+
 
 
 [[bin]]
@@ -113,3 +153,27 @@ path = "src/b08.rs"
 [[bin]]
 name = "b09"
 path = "src/b09.rs"
+
+[[bin]]
+name = "b11"
+path = "src/b11.rs"
+
+[[bin]]
+name = "b12"
+path = "src/b12.rs"
+
+[[bin]]
+name = "b13"
+path = "src/b13.rs"
+
+[[bin]]
+name = "b14"
+path = "src/b14.rs"
+
+[[bin]]
+name = "b16"
+path = "src/b16.rs"
+
+[[bin]]
+name = "b17"
+path = "src/b17.rs"
