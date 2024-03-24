@@ -156,6 +156,52 @@ path = "src/a33.rs"
 name = "a34"
 path = "src/a34.rs"
 
+[[bin]]
+name = "a35"
+path = "src/a35.rs"
+
+[[bin]]
+name = "a36"
+path = "src/a36.rs"
+
+[[bin]]
+name = "a37"
+path = "src/a37.rs"
+
+[[bin]]
+name = "a38"
+path = "src/a38.rs"
+
+[[bin]]
+name = "a39"
+path = "src/a39.rs"
+
+[[bin]]
+name = "a40"
+path = "src/a40.rs"
+
+[[bin]]
+name = "a41"
+path = "src/a41.rs"
+
+[[bin]]
+name = "a42"
+path = "src/a42.rs"
+
+[[bin]]
+name = "a43"
+path = "src/a43.rs"
+
+[[bin]]
+name = "a44"
+path = "src/a44.rs"
+
+[[bin]]
+name = "a45"
+path = "src/a45.rs"
+
+
+
 
 [[bin]]
 name = "b01"
@@ -237,3 +283,78 @@ path = "src/b23.rs"
 name = "b24"
 path = "src/b24.rs"
 
+[[bin]]
+name = "b26"
+path = "src/b26.rs"
+
+[[bin]]
+name = "b27"
+path = "src/b27.rs"
+
+[[bin]]
+name = "b28"
+path = "src/b28.rs"
+
+[[bin]]
+name = "b29"
+path = "src/b29.rs"
+
+[[bin]]
+name = "b30"
+path = "src/b30.rs"
+
+[[bin]]
+name = "b31"
+path = "src/b31.rs"
+
+[[bin]]
+name = "b32"
+path = "src/b32.rs"
+
+[[bin]]
+name = "b33"
+path = "src/b33.rs"
+
+[[bin]]
+name = "b34"
+path = "src/b34.rs"
+
+[[bin]]
+name = "b36"
+path = "src/b36.rs"
+
+[[bin]]
+name = "b37"
+path = "src/b37.rs"
+
+[[bin]]
+name = "b38"
+path = "src/b38.rs"
+
+[[bin]]
+name = "b39"
+path = "src/b39.rs"
+
+[[bin]]
+name = "b40"
+path = "src/b40.rs"
+
+[[bin]]
+name = "b41"
+path = "src/b41.rs"
+
+[[bin]]
+name = "b42"
+path = "src/b42.rs"
+
+[[bin]]
+name = "b43"
+path = "src/b43.rs"
+
+[[bin]]
+name = "b44"
+path = "src/b44.rs"
+
+[[bin]]
+name = "b45"
+path = "src/b45.rs"
