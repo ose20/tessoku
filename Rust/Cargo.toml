@@ -7,6 +7,7 @@ edition = "2021"
 
 [dependencies]
 proconio = "0.4.5"
+rand = "0.8.5"
 
 [[bin]]
 name = "memo"
@@ -200,6 +201,61 @@ path = "src/a44.rs"
 name = "a45"
 path = "src/a45.rs"
 
+[[bin]]
+name = "a46"
+path = "src/a46.rs"
+
+[[bin]]
+name = "a46-2"
+path = "src/a46-2.rs"
+
+[[bin]]
+name = "a49"
+path = "src/a49.rs"
+
+[[bin]]
+name = "a50"
+path = "src/a50.rs"
+
+[[bin]]
+name = "a51"
+path = "src/a51.rs"
+
+[[bin]]
+name = "a52"
+path = "src/a52.rs"
+
+[[bin]]
+name = "a53"
+path = "src/a53.rs"
+
+[[bin]]
+name = "a54"
+path = "src/a54.rs"
+
+[[bin]]
+name = "a55"
+path = "src/a55.rs"
+
+[[bin]]
+name = "a56"
+path = "src/a56.rs"
+
+[[bin]]
+name = "a57"
+path = "src/a57.rs"
+
+[[bin]]
+name = "a58"
+path = "src/a58.rs"
+
+[[bin]]
+name = "a59"
+path = "src/a59.rs"
+
+[[bin]]
+name = "a60"
+path = "src/a60.rs"
 
 
 
@@ -358,3 +414,35 @@ path = "src/b44.rs"
 [[bin]]
 name = "b45"
 path = "src/b45.rs"
+
+[[bin]]
+name = "b51"
+path = "src/b51.rs"
+
+[[bin]]
+name = "b52"
+path = "src/b52.rs"
+
+[[bin]]
+name = "b54"
+path = "src/b54.rs"
+
+[[bin]]
+name = "b55"
+path = "src/b55.rs"
+
+[[bin]]
+name = "b56"
+path = "src/b56.rs"
+
+[[bin]]
+name = "b57"
+path = "src/b57.rs"
+
+[[bin]]
+name = "b58"
+path = "src/b58.rs"
+
+[[bin]]
+name = "b59"
+path = "src/b59.rs"

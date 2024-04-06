@@ -9,12 +9,12 @@ fn main() {
     }
 
     let ans = solve(&a);
-    println!("{}", ans);   
+    println!("{}", ans);
 }
 
 fn solve(a: &[usize]) -> i32 {
     let mut map: HashMap<usize, i32> = HashMap::new();
-    
+
     for ai in a.iter() {
         *map.entry(ai % 100).or_insert(0) += 1;
     }
