@@ -257,6 +257,49 @@ path = "src/a59.rs"
 name = "a60"
 path = "src/a60.rs"
 
+[[bin]]
+name = "a61"
+path = "src/a61.rs"
+
+[[bin]]
+name = "a62"
+path = "src/a62.rs"
+
+[[bin]]
+name = "a63"
+path = "src/a63.rs"
+
+[[bin]]
+name = "a64"
+path = "src/a64.rs"
+
+[[bin]]
+name = "a65"
+path = "src/a65.rs"
+
+[[bin]]
+name = "a66"
+path = "src/a66.rs"
+
+[[bin]]
+name = "a67"
+path = "src/a67.rs"
+
+[[bin]]
+name = "a68"
+path = "src/a68.rs"
+
+[[bin]]
+name = "a69"
+path = "src/a69.rs"
+
+[[bin]]
+name = "a70"
+path = "src/a70.rs"
+
+
+
+
 
 
 [[bin]]
@@ -446,3 +489,39 @@ path = "src/b58.rs"
 [[bin]]
 name = "b59"
 path = "src/b59.rs"
+
+[[bin]]
+name = "b61"
+path = "src/b61.rs"
+
+[[bin]]
+name = "b62"
+path = "src/b62.rs"
+
+[[bin]]
+name = "b63"
+path = "src/b63.rs"
+
+[[bin]]
+name = "b64"
+path = "src/b64.rs"
+
+[[bin]]
+name = "b65"
+path = "src/b65.rs"
+
+[[bin]]
+name = "b66"
+path = "src/b66.rs"
+
+[[bin]]
+name = "b67"
+path = "src/b67.rs"
+
+[[bin]]
+name = "b68"
+path = "src/b68.rs"
+
+[[bin]]
+name = "b69"
+path = "src/b69.rs"
