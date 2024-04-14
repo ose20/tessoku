@@ -13,13 +13,13 @@ fn main() {
     let dist = bfs((sy - 1, sx - 1), &maze, r, c);
     println!("{}", dist[encode(gy - 1, gx - 1, c)]);
 
-    for i in 0..r {
-        for j in 0..c {
-            let d = dist[encode(i, j, c)];
-            print!("{:>5}", if d == usize::MAX { -1 as i64 } else { d as i64 })
-        }
-        println!("");
-    }
+    //for i in 0..r {
+    //    for j in 0..c {
+    //        let d = dist[encode(i, j, c)];
+    //        print!("{:>5}", if d == usize::MAX { -1 as i64 } else { d as i64 })
+    //    }
+    //    println!("");
+    //}
 }
 
 fn encode(h: usize, w: usize, base: usize) -> usize {
