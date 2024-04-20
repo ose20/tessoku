@@ -525,3 +525,53 @@ path = "src/b68.rs"
 [[bin]]
 name = "b69"
 path = "src/b69.rs"
+
+
+
+[[bin]]
+name = "c01"
+path = "src/c01.rs"
+
+[[bin]]
+name = "c02"
+path = "src/c02.rs"
+
+[[bin]]
+name = "c03"
+path = "src/c03.rs"
+
+[[bin]]
+name = "c04"
+path = "src/c04.rs"
+
+[[bin]]
+name = "c05"
+path = "src/c05.rs"
+
+[[bin]]
+name = "c06"
+path = "src/c06.rs"
+
+[[bin]]
+name = "c07"
+path = "src/c07.rs"
+
+[[bin]]
+name = "c08"
+path = "src/c08.rs"
+
+[[bin]]
+name = "c09"
+path = "src/c09.rs"
+
+[[bin]]
+name = "c10"
+path = "src/c10.rs"
+
+[[bin]]
+name = "c11"
+path = "src/c11.rs"
+
+[[bin]]
+name = "c12"
+path = "src/c12.rs"
