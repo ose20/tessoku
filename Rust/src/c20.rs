@@ -17,15 +17,15 @@ fn main() {
     // adj グラフを与えて、都市 1 と連結している k-l+1 個の都市のリストを得る
     let region1: HashSet<usize> = get_region1(&adj, k - l).into_iter().collect();
 
-    //let mut counter = 2;
-    //for i in 1..=k {
-    //    if region1.contains(&i) {
-    //        println!("1");
-    //    } else {
-    //        println!("{}", counter);
-    //        counter += 1;
-    //    }
-    //}
+    let mut counter = 2;
+    for i in 1..=k {
+        if region1.contains(&i) {
+            println!("1");
+        } else {
+            println!("{}", counter);
+            counter += 1;
+        }
+    }
 }
 
 fn create_adj(n: usize, k: usize, c: &Vec<Vec<usize>>) -> Vec<Vec<usize>> {
@@ -65,7 +65,7 @@ fn get_region1(adj: &Vec<Vec<usize>>, n: usize) -> Vec<usize> {
 
     dfs(adj, 1, 0, n + 1, &mut seen, &mut res);
 
-    println!("{:?}", res.len());
+    //println!("{:?}", res.len());
     res
 }
 
