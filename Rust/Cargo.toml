@@ -8,6 +8,7 @@ edition = "2021"
 [dependencies]
 proconio = "0.4.5"
 rand = "0.8.5"
+regex = "1"
 
 [[bin]]
 name = "memo"
@@ -575,3 +576,35 @@ path = "src/c11.rs"
 [[bin]]
 name = "c12"
 path = "src/c12.rs"
+
+[[bin]]
+name = "c13"
+path = "src/c13.rs"
+
+[[bin]]
+name = "c14"
+path = "src/c14.rs"
+
+[[bin]]
+name = "c15"
+path = "src/c15.rs"
+
+[[bin]]
+name = "c16"
+path = "src/c16.rs"
+
+[[bin]]
+name = "c17"
+path = "src/c17.rs"
+
+[[bin]]
+name = "c18"
+path = "src/c18.rs"
+
+[[bin]]
+name = "c19"
+path = "src/c19.rs"
+
+[[bin]]
+name = "c20"
+path = "src/c20.rs"
